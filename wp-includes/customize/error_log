@@ -1,0 +1,44 @@
+[20-Jul-2022 18:24:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[20-Jul-2022 18:24:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[20-Jul-2022 18:24:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[20-Jul-2022 18:24:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[20-Jul-2022 18:24:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[20-Jul-2022 18:25:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[20-Jul-2022 18:25:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[20-Jul-2022 18:25:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[20-Jul-2022 18:25:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[20-Jul-2022 18:26:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[20-Jul-2022 18:26:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19

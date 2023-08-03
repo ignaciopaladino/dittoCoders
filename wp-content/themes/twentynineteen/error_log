@@ -1,0 +1,12 @@
+[26-Jun-2021 13:26:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home12/deportify/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[21-Oct-2021 14:30:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home12/deportify/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[24-Apr-2022 03:42:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home12/deportify/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-content/themes/twentynineteen/404.php on line 12

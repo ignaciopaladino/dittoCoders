@@ -1,0 +1,102 @@
+
+---Downloaded files---
+The import files for: Demo One were successfully downloaded!
+Initial max execution time = 450
+Files info:
+Site URL = http://deportify.hera.urltemporal.com
+Data file = /home12/deportify/public_html/wp-content/themes/appon/inc/import/content.xml
+Widget file = /home12/deportify/public_html/wp-content/themes/appon/inc/import/widgets.wie
+Customizer file = not defined!
+Redux files:
+appon_theme_option -> /home12/deportify/public_html/wp-content/themes/appon/inc/import/redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Widgets in Menu : 
+
+Menú de Navegación - Listing Styles - Imported
+Menú de Navegación - Column Variations - Imported
+Menú de Navegación - Single Pages - Imported
+
+Sidebar : 
+
+Buscar - No Title - Widget already exists
+RadiantThemes Recent Posts With Thumbnail Widget - No Title - Imported
+Categorías - Categories - Imported
+Archivos - Archives - Imported
+Nube de etiquetas - Tags - Imported
+
+Product | Sidebar : 
+
+Filtrar productos por precio - Filter by price - Imported
+Productos - Featured Products - Imported
+Categorías de producto - Product categories - Imported
+Productos - On-sale Products - Imported
+
+Footer | #1 : 
+
+Páginas - ssff - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: appon_theme_option finished successfully!
+
+---pt-ocdi/after_import---
+

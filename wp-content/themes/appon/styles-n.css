@@ -1,0 +1,544 @@
+body{
+	/*----*/
+}
+.wraper_header.style-six .wraper_header_main .header_main .brand-logo img {
+    max-width: 200px;
+}
+.appon-home-banner-right-image {
+    width: 540px;
+}
+.header-banner {
+    font-weight: bold;
+    color: #30a736;
+    font-size: 2.5em;
+    margin-bottom: 40px;
+}
+.subtit-header {
+    color: #ffffff;
+    width: 90%;
+    margin-bottom: 40px;
+}
+img.img-banner-btn {
+    margin-right: 15px;
+}
+.wraper_header.style-six .wraper_header_main .nav > [class*='menu-'] > ul.menu > li {
+    margin-right: 70px;
+}
+.wraper_header.style-six .wraper_header_main .nav > [class*='menu-'] > ul.menu > li:last-child, .wraper_header.style-six .wraper_header_main .nav > [class*='menu-'] > ul.menu > li:only-child {
+    margin-right: 45px !important;
+}
+.wraper_header.style-six .wraper_header_main .header_main_calltoaction > .btn.button-one {
+    background-color: #ea7e0f;
+    border-radius: 50px;
+    transition: all ease .4s;
+    /* font-weight: bold; */
+}
+.wraper_header.style-six .wraper_header_main .header_main_calltoaction > .btn.button-one:hover {
+    color: #ea7e0f;
+    background-color: #ffffff;
+    transition: all ease .4s;    
+}
+.wraper_header.style-six .wraper_header_main .nav > [class*="menu-"] > ul.menu > li > a:hover{
+    color: #ea7e0f;
+    transition: all ease .4s;  	
+}
+.bannerCentralBottom{
+	text-align: center;
+}
+footer.wraper_footer.custom-footer {
+    display: none;
+}
+.bannerCentralBottom .subtit-header {
+    width: 55%;
+    text-align: center;
+    margin-left: 22.55%;
+}
+img.footerImg {
+    width: 60%;
+}
+.titleFooter {
+    font-weight: bold;
+    color: #30a736;
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+.linksFooter {
+    color: #ffffff;
+    margin-bottom: 8px;
+}
+.linksFooter a{
+	color: #ffffff;
+	font-size: .9em;
+}
+.linksFooter a:hover{
+	color: #ea7e0f;
+	transition: all ease .4s; 
+}
+.linksFooter b {
+    font-weight: normal;
+    color: #ea7e0f;
+}
+.itemContact {
+    color: #ea7e0f;
+    margin-bottom: 8px;
+    font-size: .9em;
+}
+.itemContact a{
+	color: #ea7e0f;
+}
+.itemContact a:hover{
+	color: #ffffff;
+	transition: all ease .4s; 
+}
+.socialLink a {
+    background: #004e2d;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    float: left;
+    margin-right: 15px;
+    border-radius: 50px;
+    color: #ffffff;
+    font-size: 1.3em;
+    transition: all ease .4s; 
+}
+.socialLink a:hover {
+    background: #ffffff; 
+    color: #004e2d;
+    transition: all ease .4s; 
+}
+.socialLink {
+    margin-top: 40px;
+}
+.bannerCentralRegistro .header-banner {
+    text-align: left;
+    font-size: 2em;
+}
+.bannerCentralRegistro .subtit-header {
+    text-align: left;
+    width: 100%;
+    margin-left: 0%;
+}
+.btnFormsPop {
+    text-align: center;
+    margin-top: 75px;
+}
+.btnFormPopInter {
+    color: #ffffff;
+    display: inline-block;
+    width: 200px;
+    padding: 10px 0px;
+    border-radius: 50px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btnNaranja.btnFormPopInter{
+	background-color: #ea7e0f;
+	margin-right: 15px;
+}
+.btnGreen.btnFormPopInter{
+	background-color: #004e2d;
+}
+.btnNaranja.btnFormPopInter:hover{
+	color: #ea7e0f;
+	background-color: #ffffff;
+	transition: all ease .4s; 
+}
+.btnGreen.btnFormPopInter:hover{
+	color: #004e2d;
+	background-color: #ffffff;	
+	transition: all ease .4s; 
+}
+.sutTitleContForm {
+    color: #30a736;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.TitleContForm {
+    color: #0f102a;
+    font-weight: bold;
+    font-size: 2.25em;
+    line-height: 1.3;
+    margin-bottom: 30px;
+}
+.bajadContForm {
+    width: 80%;
+    margin-bottom: 40px;
+}
+.item2Col.whatCont {
+    width: 45%;
+    float: left;
+}
+.item2Col.whatCont.whatCont2 {
+    width: 55%;
+}
+.item2Col.whatCont .img2colCont{
+    width: 25%;
+    float: left;
+}
+.item2Col.whatCont .img2colCont img{
+    /*width: 100%;*/
+}
+.item2Col.whatCont .textsCont{
+    width: 75%;
+    float: left;
+}
+.subtiTextsCont a {
+	color: #0f102a;
+    font-weight: bold;
+    font-size: .85em;
+}
+.subtiTextsCont a:hover {
+	color: #ea7e0f;
+	transition: all ease .4s; 
+}
+.titleTextsCont {
+    color: #ea7e0f;
+    font-weight: bold;
+    font-size: .9em;
+}
+#formCont input.wpcf7-form-control, #formCont textarea.wpcf7-form-control {
+    background-color: #efefef !important;
+    border-radius: 20px !important;
+    padding-left: 20px !important;
+}
+.radiant-contact-form.element-one .form-row label span {
+	color: #ea7e0f !important;
+}
+.form-rowww{
+	text-align: center;
+}
+#formCont input.wpcf7-form-control.wpcf7-submit {
+    background-color: #ea7e0f !important;
+    width: 200px;
+    padding: 8px 0px !important;
+    border: 2px solid #ea7e0f !important;
+}
+#formCont input.wpcf7-form-control.wpcf7-submit:hover {
+    color: #ea7e0f !important;
+    background-color: #ffffff !important;
+	transition: all ease .4s; 
+}
+.modalForm {
+    display: none;
+    position: fixed;
+    top: 0;
+    background: rgb(0 0 0 / .3);
+    width: 100%;
+    height: 100%;
+    z-index: 99999999999;
+}
+.modalConte {
+    width: 50%;
+    margin-top: 6%;
+    border-radius: 15px;
+    background: #efefef;
+    padding-bottom: 30px;
+}
+.modalConte form .form-row{
+	width: 90%;
+}
+.closeModal {
+    float: right;
+    margin-top: -50px;
+    color: #ffffff;
+    font-size: 2em;
+    cursor: pointer;
+}
+.closeModal:hover {
+    color: #ea7e0f !important;
+	transition: all ease .4s; 
+}
+.titleFormOpen.titleFormClub {
+    background: #004e2d;
+    text-align: center;
+    color: #ffffff;
+    font-size: 1.6em;
+    font-weight: bold;
+    padding: 18px 0px;
+    margin-bottom: 30px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.titleFormOpen.titleFormEntre {
+    background: #ea7e0f;
+    text-align: center;
+    color: #ffffff;
+    font-size: 1.6em;
+    font-weight: bold;
+    padding: 18px 0px;
+    margin-bottom: 30px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;    
+}
+.bajadFormOpen {
+    text-align: center;
+    width: 90%;
+    /* margin-left: 10%; */
+    margin-bottom: 30px;
+}
+.modalFormEntrenador input.wpcf7-form-control.wpcf7-submit {
+    color: #ffffff;
+    display: inline-block;
+    width: 200px;
+    padding: 8px 0px;
+    border-radius: 50px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 40px;
+    background-color: #30a736;
+    border: 2px solid #30a736;
+}
+.modalFormEntrenador input.wpcf7-form-control.wpcf7-submit:hover {
+    background-color: #efefef;
+	transition: all ease .4s; 
+    color: #30a736;
+}
+.modalFormClub input.wpcf7-form-control.wpcf7-submit {
+    color: #ffffff;
+    display: inline-block;
+    width: 200px;
+    padding: 8px 0px;
+    border-radius: 50px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 40px;
+    background-color: #e77d0f;
+    border: 2px solid #e77d0f;
+}
+.modalFormClub input.wpcf7-form-control.wpcf7-submit:hover {
+    background-color: #efefef;
+	transition: all ease .4s; 
+    color: #e77d0f;
+}
+.form-row-inter {
+    width: 50%;
+    float: left;
+    margin-bottom: 20px;
+}
+.modalConte form .form-row input[type=text] {
+    border: none;
+    border-radius: 50px;
+    padding: 7px;
+}
+span.wpcf7-form-control-wrap.Deportes input {
+    width: 97%;
+}
+.modalConte form .form-row span {
+    color: #ea7e0f;
+}
+.modalConte form .form-row label {
+    font-size: .9em;
+}
+.modalConte .wpcf7 form .wpcf7-response-output,.modalConte .wpcf7 form .wpcf7-response-output {
+    width: 90% !important;
+    margin-left: 5%;
+    margin-top: 30px !important;
+}
+.modalFormEntrenador .modalConte form .form-row span {
+    color: #30a736;
+}
+.modalConte span.wpcf7-not-valid-tip {
+    width: 95%;
+    margin-left: 0%;
+}   
+.owl-carousel .owl-dots.disabled, .owl-carousel .owl-nav.disabled {
+    display: block !important;
+}
+textarea.wpcf7-form-control.wpcf7-textarea.wpcf7-validates-as-required {
+    padding-top: 20px !important;
+} 
+.modalConte form .form-row input[type=text] {
+    width: 97%;
+}
+span.wpcf7-form-control-wrap.Deportes input {
+    width: 99% !important;
+}
+.textProximamente{
+    margin: 0px 20px;
+}
+.img-btn-stores {
+    float: left;
+}
+.img-btn-stores.img-prox-apple img{
+    opacity: .5;
+    margin-right: 0px;
+}
+.img-btn-stores.img-prox-apple p{
+    color: #ffffff;
+    text-align: center;
+    font-size: .9em;
+}
+.bannerCentralBottom .img-btn-stores {
+    float: none;
+    display: inline-block;
+    margin: auto;
+    vertical-align: text-top;
+}
+@media screen and (max-width: 800px){
+	.header-banner {
+	    line-height: 1;
+	    text-align: center;
+	}
+	.subtit-header {
+	    width: 100%;
+	    text-align: center;
+	}
+	a.banner-btn {
+	    width: 50%;
+	    float: left;
+	    text-align: center;
+	}
+	img.img-banner-btn {
+	    margin-right: 0;
+	    /* width: 95%; */
+	    /* float: left; */
+	    height: 50px;
+	}
+	.appon-home-banner-right-image {
+	    width: 100%;
+	    margin-bottom: -75px !important;
+	}
+	#headSlider {
+	    line-height: 1.2 !important;
+	    margin-top: -30px !important;
+	}
+	#bajadSlider {
+	    line-height: 1.4 !important;
+	}
+	.bannerCentralRegistro .header-banner {
+	    text-align: center;
+	    margin-bottom: 30px;
+	}
+	.bannerCentralRegistro .subtit-header {
+	    text-align: center;
+	}
+	.btnFormsPop {
+	    text-align: center;
+	    margin-top: -20px;
+	}
+	.btnFormPopInter {
+	    color: #ffffff;
+	    display: inline-block;
+	    width: 46%;
+	    padding: 10px 0px;
+	    border-radius: 50px;
+	    font-weight: bold;
+	    cursor: pointer;
+	    font-size: .85em;
+	}
+	div#contacto {
+	    padding-top: 0px !important;
+	    padding-bottom: 0px !important;
+	    border-radius: 0px !important;
+	}
+	div#contacto .vc_column-inner{
+	    padding-top: 0px !important;
+	}
+	div#contacto .vc_row.wpb_row.vc_inner.vc_row-fluid {
+	    padding: 60px 20px !important;
+	}
+	.sutTitleContForm {
+	    text-align: center;
+	}
+	.TitleContForm br {
+	    display: none;
+	}
+	.TitleContForm {
+	    text-align: center;
+	    font-size: 1.5em;
+	}
+	.bajadContForm {
+	    width: 100%;
+	    margin-bottom: 40px;
+	    text-align: center;
+	}
+	.item2Col.whatCont, .item2Col.whatCont2 {
+	    width: 100% !important;
+	}
+	.item2Col.whatCont2 {
+	    margin-top: 25px !important;
+	    margin-bottom: 25px !important;
+	}
+	#footerNewPage{
+		text-align: center;
+	}
+	.socialLink {
+	    margin-top: 40px;
+	    display: inline-block;
+	}
+	.socialLink a {
+	    float: none; 
+	    display: block;
+	}
+	.rt-image-slider.element-two .owl-nav > .owl-next {
+	    right: 0px !important;
+	}
+	.rt-image-slider.element-two .owl-nav > .owl-prev {
+	    left: 0px !important;
+	}
+	.modalConte {
+	    width: 98%;
+	    margin-top: 5%;
+	    /*height: 600px;
+	    overflow: scroll;*/
+	    margin-bottom: 10px;
+	}
+	.bajadFormOpen {
+	    text-align: center;
+	    width: 95%;
+	    /* margin-left: 10%; */
+	    margin-bottom: 15px;
+	    font-size: .8em;
+	    line-height: 1.4;
+	}
+	.closeModal {
+	    float: none;
+	    margin-top: 12px;
+	    color: #ffffff;
+	    font-size: 2em;
+	    cursor: pointer;
+	    margin-right: 20px;
+	    position: absolute;
+	    right: 0;
+	}
+	.titleFormOpen.titleFormClub{
+		margin-bottom: 15px;
+	}
+	.modalConte form .form-row input[type=text] {
+	    width: 97%;
+	}
+	span.wpcf7-form-control-wrap.Deportes input {
+	    width: 99% !important;
+	}
+	.modalFormEntrenador input.wpcf7-form-control.wpcf7-submit, .modalFormClub input.wpcf7-form-control.wpcf7-submit{
+		margin-top: 15px;
+	}
+	.form-row-inter {
+	    margin-bottom: 5px;
+	}
+	.modalConte form .form-row label {
+	    font-size: .8em;
+	}
+    a.banner-btn {
+        width: 100%;
+    }
+    .img-btn-stores, .bannerCentralBottom .img-btn-stores {
+        float: left;
+        text-align: center;
+        width: 50%;
+    }
+    .subtit-header {
+        width: 100% !important;
+        text-align: center;
+        margin-left: 0% !important;
+    }
+
+
+
+}
+@media screen and (max-device-width: 800px){
+	
+}

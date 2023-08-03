@@ -1,0 +1,36 @@
+[10-Aug-2022 08:07:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php:15
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php on line 15
+[10-Aug-2022 08:11:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php:17
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php on line 17
+[10-Aug-2022 08:20:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-none.php:17
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-none.php on line 17
+[10-Aug-2022 08:27:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-video.php:15
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-video.php on line 15
+[21-Aug-2022 10:28:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-none.php:17
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-none.php on line 17
+[21-Aug-2022 18:47:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php:15
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php on line 15
+[21-Aug-2022 19:53:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-image.php on line 15
+[21-Aug-2022 23:58:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-video.php:15
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-video.php on line 15
+[22-Aug-2022 09:00:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php:17
+Stack trace:
+#0 {main}
+  thrown in /home12/deportify/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php on line 17
